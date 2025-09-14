@@ -8,11 +8,7 @@
 ---
 
 ## 🛠️ Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Linux][yyyyyy]
-![GitHub Actions](yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy)
-
+![PHP]
 ---
 
 ## 📂 Featured Projects
