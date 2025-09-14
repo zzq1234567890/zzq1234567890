@@ -16,7 +16,8 @@
 ---
 
 ## 📂 Featured Projects
- – 電視節目 EPG 管理工具 🛰️ [epg](https://github.com/zzq1234567890/epg) – 節目數據處理  
+ – 🛰️ [電視節目預告epg].
+ (https://github.com/zzq1234567890/epg) – 節目數據處理  
 - 📡 [hebeiiptv](https://github.com/zzq1234567890/hebeiiptv) – IPTV 地址收集  
 
 ---
