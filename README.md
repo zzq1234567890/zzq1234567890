@@ -12,7 +12,7 @@
 ---
 
 ## 📂 Featured Projects
- - 📡 [電視節目預告EPG](https://github.com/zzq1234567890/epg) 
+ - 📡 [TVEPG](https://github.com/zzq1234567890/epg) 
 - 📡 [hebeiiptv](https://github.com/zzq1234567890/hebeiiptv) 
 
 ---
