@@ -24,4 +24,4 @@
 ## 📫 Contact
 - GitHub: [@zzq1234567890](https://github.com/zzq1234567890)
 - Email: fpiao78@gmail.com
-- telegram: fpiao78
+- telegram: [@fpiao78]
