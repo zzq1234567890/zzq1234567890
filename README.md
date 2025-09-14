@@ -10,8 +10,8 @@
 ## 🛠️ Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](yyyyyy
+![GitHub Actions](yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy)
 
 ---
 
@@ -24,4 +24,4 @@
 ## 📫 Contact
 - GitHub: [@zzq1234567890](https://github.com/zzq1234567890)
 - Email: fpiao78@gmail.com
-- telegram: [@fpiao78]
+- Telegram: [@fpiao78]
