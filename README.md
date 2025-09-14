@@ -16,9 +16,7 @@
 ---
 
 ## 📂 Featured Projects
- 
-– 🛰️ [電視節目預告epg]
-(https://github.com/zzq1234567890/epg) 
+ - 📡 [電視節目預告EPG](https://github.com/zzq1234567890/epg) 
 - 📡 [hebeiiptv](https://github.com/zzq1234567890/hebeiiptv) 
 
 ---
