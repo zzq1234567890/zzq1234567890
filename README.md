@@ -11,7 +11,7 @@
 ![PHP]
 ---
 
-## 📂 Featured Projects 《some documents from bbs of mianland.com》
+## 📂 Featured Projects 《some documents from bbs of mianland》
  - 📡 [TVEPG](https://github.com/zzq1234567890/epg) 
 - 📡 [hebeiiptv](https://github.com/zzq1234567890/hebeiiptv) 
 
