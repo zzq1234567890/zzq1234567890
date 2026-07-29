@@ -1,7 +1,7 @@
 # 👋 Hi, I'm zzq1234567890
 
 ## 🌟 About Me
-- 🔧 Focused on **EPG / IPTV / Automation**
+- 🔧 Focused on **EPG  Automation**
 - 🌱 Currently learning **PHP & Go**
 - 🚀 Building tools that make life easier
 
